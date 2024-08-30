@@ -1,0 +1,26 @@
+backend server package:
+ express cookie-parser mailtrap bcryptjs dotenv jsonwebtoken mongoose crypto nodemon
+
+ express - used to create server and routes in the backend in node js
+ cookie-parser - used to parse the cookie from response 
+ mailtrap - used to send email 
+ bcryptjs - used to hash the password.
+ dotenv - used to create .env file for hiding the sensitive information on the server.
+ jsonwebtoken - used to create token and helps in authentication.
+ mongoose - used to connect with the database and create the database as well.
+ crypto - used to generate auto series no for authentication purpose.
+ nodemon - used to run the server according to the changes in the code in vs code automatically.
+            Install nodemon as npm i nodemon -D 
+ cors  - used to remove the cross functional platform error from frontend to backend and vise-versa
+ 
+
+ Frontend packages:
+
+ react router dom --> For Browser Routes and creating different routes based on the conditon and the button clicked.
+ framer-motion --> used to create different shapes and animations for the web packages
+ lucide-react --> For using icons
+ zustand --> used for Authentication purpose
+ axios --> used to send and receive data from frontend to backend through HTTP requests
+ react-hot-toast --> used to show notification messages with Styling code in Frontend.
+ 
+ 
